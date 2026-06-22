@@ -1,3 +1,4 @@
+DecodeLabs AI Internship Projects Intern Name: Karthik Shaj
 Project 1: Rule-Based AI Chatbot
 This project is a simple chatbot developed using Python. The chatbot responds to predefined user inputs and demonstrates the basic working of a rule-based AI system.
 
