@@ -1,3 +1,4 @@
+DecodeLabs AI Internship Projects Intern Name: Karthik Shaj
 Project 2: Iris Flower Classification using KNN
 This project uses the Iris dataset and the K-Nearest Neighbors (KNN) algorithm to classify flowers into different species based on their measurements.
 
